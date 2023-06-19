@@ -2,7 +2,7 @@
 
 
 <p align="center">
-An eye-catching, user friendly and modern sudoku game with 5 core features and more than 900 unique games. All of this was accomplish with the use of just plain HTML, CSS and Javascript.
+An eye-catching, user friendly and modern sudoku game with 5 core features and more than 900 unique games. 
 </p>
 
 <p align="center">
